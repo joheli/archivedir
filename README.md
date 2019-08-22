@@ -1,5 +1,5 @@
 # archivedir
-This repository contains DOS batch scripts to help you back up your files. The scripts use the great programs [7-Zip.org](https://www.7-zip.org/) and [Unison](https://www.cis.upenn.edu/~bcpierce/unison/).
+This repository contains DOS batch scripts to help you back up your files. The scripts use the great programs [7-Zip](https://www.7-zip.org/) and [Unison](https://www.cis.upenn.edu/~bcpierce/unison/).
 
 # What is it for?
 `archivedir.bat` takes a folder, compresses it using 7-Zip, attaches a datestamp, and puts it in a folder of your choosing. `mirror.bat` mirrors (i.e. backs up) a folder to a second one.
